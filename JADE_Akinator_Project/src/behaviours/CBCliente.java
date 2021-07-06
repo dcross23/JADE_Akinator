@@ -33,8 +33,8 @@ public class CBCliente extends CyclicBehaviour{
 		Utils.enviarMensaje(this.myAgent, "adivinar", "EMPEZAR PARTIDA", conversationID);
 		
 		//Partida
-		System.out.println("\n************** QUIEN ES QUIEN ***************");
-		  System.out.println("************** DAVID && JESUS ***************");
+		System.out.println("\n****************  AKINATOR  *****************");
+		  System.out.println("**************     DAVID      ***************");
 		  
 		while(true) {
 			//Recibe la pregunta y la imprime por pantalla
